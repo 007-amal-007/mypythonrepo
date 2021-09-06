@@ -29,3 +29,9 @@ print(list1)
 
 a=[1,4,5,62,9,7,2,6,3]
 a.sort()
+
+# INDEXING
+list=[1,2,3,4,5,6,7,8,9]
+print(list[-1])     #print last element
+print(list[3])
+print(list[0])

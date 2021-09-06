@@ -12,12 +12,12 @@ foo()
 print("global x:",x)
 
 #we can define more variables inside "global" by using " , "
-
-x=3
-y=5
-
-def global():
-    global x,y
-    a=x**2
-    b=x*y
-    print("")
+#
+# x=3
+# y=5
+#
+# def global():
+#     global x,y
+#     a=x**2
+#     b=x*y
+#     print("")
