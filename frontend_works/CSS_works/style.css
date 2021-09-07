@@ -1,0 +1,22 @@
+/* TagName or id ,ClassName{
+    
+    property:value;
+    property:value;
+    
+}*/
+
+h1{
+    color: red;
+}
+h2{
+    color: rgb(66, 245, 72); 
+}
+#htwo{
+    color: seagreen;
+}
+#second{
+    color: indigo;
+}
+.third{
+    color: yellow;
+}
