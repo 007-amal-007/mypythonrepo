@@ -1,0 +1,14 @@
+div{
+    border: 1px solid black;
+    background-color: cornflowerblue;
+    height: 105px;
+    width: 50%;
+    margin-left: 300px;
+    padding-left:10%;
+    padding-right:30px;
+
+}
+.foot{
+    margin-top: 375px;
+    padding-top:10%;
+}
